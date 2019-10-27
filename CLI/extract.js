@@ -79,6 +79,8 @@ function extractTags(recipeJson) {
 
   tags = tags.concat(recipeJson.cuisines || [])
 
+  tags = tags.map(x => x.toLowerCase())
+
   return tags
 }
 
