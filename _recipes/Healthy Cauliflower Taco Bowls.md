@@ -1,27 +1,28 @@
 ---
 sourceUrl: https://www.thissavoryvegan.com/healthy-cauliflower-taco-bowls/
-spoonacularSourceUrl:
 date: 2019-10-27
 cooking_time: 30
-tags: []
+tags: [vegan]
 ---
 # Healthy Cauliflower Taco Bowls
 
 ![Image of Healthy Cauliflower Taco Bowls](../../img/Healthy Cauliflower Taco Bowls.jpeg)
 
+> These Healthy Cauliflower Taco Bowls combine all of your favorite taco flavors in one simple recipe. Ready in just 30 minutes, this is the perfect vegan weeknight dinner!
+
 
 - 1 cup water
-- 1 tsp Better Than Bouillon No Chicken Base* or 1 cup broth
+- 1 tsp Better Than Bouillon No Chicken Base or 1 cup broth
 - 1 tsp olive oil
 - 3 cloves garlic diced
 - 1/2 red onion diced
 - 1 bell pepper deseeded and diced
-- 16 oz cauliflower riced**
+- 16 oz cauliflower riced
 - 1 packet taco seasoning
 - 1 tsp paprika
 - 1 tsp chili powder
 - 1 15 oz can pinto beans drained and rinsed
-- salt as needed***
+- salt as needed
 - optional toppings spinach, cilantro, jalapeno slices, avocado
 
 
