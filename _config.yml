@@ -197,6 +197,7 @@ exclude:
   - README.md
   - Vagrantfile
   - docker-compose.yml
+  - CLI
 
 # prose.io config
 prose:

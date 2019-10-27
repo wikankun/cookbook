@@ -1,0 +1,16 @@
+{
+  "name": "cookbook",
+  "version": "0.0.1",
+  "description": "My Personal Cookbook",
+  "main": "CLI/main.js",
+  "scripts": {
+    "add": "CLI/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jan Simson",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.7.1",
+    "node-fetch": "^2.6.0"
+  }
+}
