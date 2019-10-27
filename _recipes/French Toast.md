@@ -5,7 +5,7 @@ date: 2019-10-27
 cooking_time: 20
 tags: [vegetarian, american]
 ---
-# French Toast I
+# French Toast
 
 ![Image of French Toast I](../../img/French Toast I.jpg)
 
