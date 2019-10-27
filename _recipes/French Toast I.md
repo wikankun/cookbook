@@ -3,7 +3,7 @@ sourceUrl: http://allrecipes.com/recipe/7016/french-toast-i/
 spoonacularSourceUrl: https://spoonacular.com/french-toast-i-798812
 date: 2019-10-27
 cooking_time: 20
-tags: [vegetarian,American]
+tags: [vegetarian, american]
 ---
 # French Toast I
 
