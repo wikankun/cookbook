@@ -173,7 +173,7 @@ defaults:
       path: ""
       type: "recipes"
     values:
-      layout: "post"
+      layout: "recipe"
       comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
   -
