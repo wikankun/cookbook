@@ -6,6 +6,11 @@ title: My Cookbook
 # Short description of your site
 description: A collection of my favorite recipes 📖
 
+collections:
+  recipes:
+    output: true
+    permalink: /:collection/:title/
+
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
@@ -166,7 +171,7 @@ defaults:
   -
     scope:
       path: ""
-      type: "posts"
+      type: "recipes"
     values:
       layout: "post"
       comments: true  # add comments to all blog posts
@@ -245,6 +250,12 @@ prose:
           label: "Publish"
           help: "Check to publish post, uncheck to hide."
 
+titles_from_headings:
+  enabled:     true
+  strip_title: true
+  collections: true
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-titles-from-headings

@@ -245,6 +245,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages (= 197)
   jekyll-paginate
+  jekyll-titles-from-headings
 
 BUNDLED WITH
    1.17.3
