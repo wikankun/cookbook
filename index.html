@@ -37,7 +37,7 @@ use-site-title: true
               {% if foundImage == 0 %}
                   {% assign imageSrc = image | split:"/>" | first %}
                   <a href="{{ post.url | relative_url }}">
-                    <img {{ imageSrc }} />
+                    <img {{ imageSrc | replace: "../../", "./" }} />
                   </a>
                   {% assign foundImage = 1 %}
               {% endif %}
