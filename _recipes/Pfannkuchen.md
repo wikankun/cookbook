@@ -4,6 +4,8 @@ tags: [german]
 ---
 # Pfannkuchen
 
+![Image of Pfannkuchen](../../img/Pfannkuchen.jpg)
+
 
 - 1 Ei
 - 1/2 EL Zucker
