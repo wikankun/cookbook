@@ -10,4 +10,5 @@ ehthumbs.db
 
 # for CLI
 node_modules/
+tmp/
 CLI/CREDENTIALS.json

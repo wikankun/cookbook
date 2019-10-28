@@ -30,7 +30,7 @@ async function extract(recipeUrl) {
   // Extract JSON
   const recipeJson = await response.json()
   // Save JSON for debugging purposes
-  // await fs.promises.writeFile(`tmp/${recipeJson.title}.json`, JSON.stringify(recipeJson, null, 2))
+  await fs.promises.writeFile(`tmp/${recipeJson.title}.json`, JSON.stringify(recipeJson, null, 2))
 
   // Save the recipe Image
   const imagePath = await downloadImage(recipeJson.image, `${recipeJson.title}`)
@@ -64,8 +64,8 @@ async function recipeToMarkdown(recipe) {
 
   return ejs.render(markdownTemplateString, {
     recipe: recipe,
-    ingredients: recipe.extendedIngredients,
-    instructions: recipe.analyzedInstructions[0].steps,
+    ingredients: recipe.extendedIngredients || [],
+    instructions: recipe.analyzedInstructions.length > 0 ? recipe.analyzedInstructions[0].steps : [],
     tags: extractTags(recipe),
   })
 }
