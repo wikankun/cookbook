@@ -2,6 +2,7 @@
 sourceUrl: https://www.thissavoryvegan.com/healthy-cauliflower-taco-bowls/
 date: 2019-10-27
 cooking_time: 30
+servings: 5
 tags: [vegan]
 ---
 # Healthy Cauliflower Taco Bowls
