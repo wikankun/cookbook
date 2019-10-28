@@ -3,6 +3,7 @@ sourceUrl: <%= recipe.sourceUrl %>
 spoonacularSourceUrl: <%= recipe.spoonacularSourceUrl %>
 date: <%= new Date().toISOString().split('T')[0] %>
 cooking_time: <%= recipe.preparationMinutes + recipe.cookingMinutes %>
+servings: <%= recipe.servings %>
 tags: [<%= tags.join(', ') %>]
 ---
 # <%=recipe.title%>
