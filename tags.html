@@ -6,11 +6,11 @@ title: 'Tags'
 
 Go to:
 {%- for tag in tags_list -%}
-    <a href="#{{- tag -}}" class="tag-btn"><i class="fa fa-hashtag" aria-hidden="true"></i>&nbsp;{{- tag -}}</a>
+    <a class="tag-{{ tag }}" href="#{{- tag -}}" class="tag-btn"><i class="fa fa-hashtag" aria-hidden="true"></i>&nbsp;{{- tag -}}</a>
 {%- endfor -%}
 
 {% for tag in tags %}
-  <h3>{{ tag }}</h3>
+  <h3 class="tag-{{ tag }}">{{ tag }}</h3>
   <ul>
     {% for recipe in site.recipes %}
         {% if recipe.tags contains tag %}
@@ -22,7 +22,7 @@ Go to:
 
 <div id="full-tags-list">
 {%- for tag in tags_list -%}
-    <h2 id="{{- tag -}}" class="linked-section">
+    <h2 id="{{- tag -}}" class="linked-section tag-{{ tag }}">
         <i class="fa fa-hashtag" aria-hidden="true"></i>
         &nbsp;
         {{- tag -}}
