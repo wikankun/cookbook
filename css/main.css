@@ -345,6 +345,7 @@ footer .theme-by {
 }
 .post-preview .post-meta,
 .post-heading .post-meta {
+  float: right;
   color: #808080;
   font-size: 18px;
   font-style: italic;
@@ -359,6 +360,9 @@ footer .theme-by {
 }
 .post-entry {
   width: 100%;
+}
+.post-preview img {
+  border-radius: 15px;
 }
 .post-image {
   float: right;
@@ -433,14 +437,7 @@ footer .theme-by {
 }
 
 .post-preview .blog-tags {
-  margin-top: 5px;
-  margin-bottom: 0;
-}
-
-@media only screen and (min-width: 768px) {
-  .post-preview .blog-tags {
-    margin-top: 10px;
-  }
+  margin-bottom: 15px;
 }
 
 @media only screen and (max-width: 500px) {
