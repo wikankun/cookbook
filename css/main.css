@@ -412,7 +412,6 @@ article img {
 
 .blog-tags a:hover {
   border-radius: .3em;
-  color: {{ site.hover-col }};
   background-color: #EEE;
 }
 
@@ -423,17 +422,13 @@ article img {
 
 /* Specificly colored tags */
 .blog-tags .tag-vegetarian,
-.blog-tags .tag-vegetarian:hover,
-.blog-tags .tag-vegan,
-.blog-tags .tag-vegan:hover {
+.blog-tags .tag-vegan {
   color: green;
 }
-.blog-tags .tag-todo,
-.blog-tags .tag-todo:hover {
+.blog-tags .tag-todo {
   color: orange;
 }
-.blog-tags .tag-instant,
-.blog-tags .tag-instant:hover {
+.blog-tags .tag-instant {
   color: red;
 }
 .blog-tags .tag-german:after {
