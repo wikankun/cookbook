@@ -396,14 +396,40 @@ footer .theme-by {
 
 .blog-tags a {
   color: {{ site.link-col }};
+  font-size: 1.25em;
   text-decoration: none;
-  padding: 0px 5px;
+  padding: 2px 6px 4px;
 }
 
 .blog-tags a:hover {
-  border-radius: 2px;
+  border-radius: .3em;
   color: {{ site.hover-col }};
   background-color: #EEE;
+}
+
+.blog-tags a::before {
+  content: '#';
+  display: inline;
+}
+
+/* Specificly colored tags */
+.blog-tags .tag-vegetarian,
+.blog-tags .tag-vegetarian:hover,
+.blog-tags .tag-vegan,
+.blog-tags .tag-vegan:hover {
+  color: green;
+}
+.blog-tags .tag-todo,
+.blog-tags .tag-todo:hover {
+  color: orange;
+}
+.blog-tags .tag-instant,
+.blog-tags .tag-instant:hover {
+  color: red;
+}
+.blog-tags .tag-german:after {
+  content: ' 🇩🇪';
+  display: inline;
 }
 
 .post-preview .blog-tags {
