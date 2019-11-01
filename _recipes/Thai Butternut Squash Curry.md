@@ -6,9 +6,9 @@ cooking_time: 315
 servings: 1
 tags: [todo, vegetarian, dairyfree, indian, asian]
 ---
-# Slow Cooker Saucy Thai Butternut Squash Curry with Noodles
+# Thai Butternut Squash Curry
 
-![Image of Slow Cooker Saucy Thai Butternut Squash Curry with Noodles](../../img/Slow Cooker Saucy Thai Butternut Squash Curry with Noodles.jpg)
+![Image of Thai Butternut Squash Curry](../../img/Thai Butternut Squash Curry.jpg)
 
 
 - 2 cups low sodium veggie broth
@@ -26,7 +26,7 @@ tags: [todo, vegetarian, dairyfree, indian, asian]
 - 1 pound wide egg noodles, such as tagliatelle
 
 
-# Normal Slow Cooker
+## Normal Slow Cooker
 
 1. In the bowl of your slow cooker, combine together the curry paste, coconut milk, broth, 1 cup water, fish sauce, and peanut butter.
 2. Add the butternut squash, cinnamon, ginger, and lime juice. Season lightly with salt and pepper.  Cover and cook on low for 5-6 hours or on high for 3-4 hours.
