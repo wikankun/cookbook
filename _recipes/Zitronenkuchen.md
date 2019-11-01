@@ -4,7 +4,7 @@ spoonacularSourceUrl:
 date: 2019-10-28
 cooking_time: 45
 servings: 1
-tags: [vegetarisch, german]
+tags: [vegetarian, german]
 ---
 # Zitronenkuchen
 
