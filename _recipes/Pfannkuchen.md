@@ -1,5 +1,6 @@
 ---
 servings: 1
+date: 2019-10-27
 tags: [german]
 ---
 # Pfannkuchen
