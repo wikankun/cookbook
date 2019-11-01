@@ -363,6 +363,7 @@ footer .theme-by {
 }
 .post-preview img {
   border-radius: 15px;
+  max-height: 400px;
 }
 .post-image {
   float: right;
