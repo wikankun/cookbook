@@ -4,7 +4,7 @@ spoonacularSourceUrl: https://spoonacular.com/slow-cooker-saucy-thai-butternut-s
 date: 2019-10-28
 cooking_time: 315
 servings: 1
-tags: [todo, vegetarian, dairyfree, indian, asian]
+tags: [vegetarian, dairyfree, indian, asian]
 ---
 # Thai Butternut Squash Curry
 
