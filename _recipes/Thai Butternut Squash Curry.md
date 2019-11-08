@@ -28,14 +28,14 @@ tags: [vegetarian, dairyfree, indian, asian]
 
 ## Normal Slow Cooker
 
-1. In the bowl of your slow cooker, combine together the curry paste, coconut milk, broth, 1 cup water, fish sauce, and peanut butter.
+1. In the bowl of your slow cooker, combine together the curry paste, coconut milk, broth, fish sauce, and peanut butter.
 2. Add the butternut squash, cinnamon, ginger, and lime juice. Season lightly with salt and pepper.  Cover and cook on low for 5-6 hours or on high for 3-4 hours.
 3. Stir the kale into the curry and cook 5 minutes until wilted. Stir in the cilantro (or basil).
 4. Meanwhile, bring a large pot of salted water to a boil. Boil the noodles according to package directions.
 5. To serve, divide the noodles among bowls and spoon the curry overtop. Top with pomegranate arils and cilantro. Enjoy!
 
 ## Instant pot
-1. In the bowl of your instant pot, combine together the curry paste, coconut milk, broth, 1 cup water, fish sauce, and peanut butter.
+1. In the bowl of your instant pot, combine together the curry paste, coconut milk, broth, fish sauce, and peanut butter.
 2. Add the butternut squash, cinnamon, ginger, and lime juice. Season lightly with salt and pepper. Cover, select the manual setting, and cook on high pressure for 8 minutes.
 3. Once done cooking, use the quick release function and release the steam. Set the instant pot to saut. Stir in the kale and cook 5 minutes until wilted. Stir in the cilantro (or basil).
 4. Meanwhile, bring a large pot of salted water to a boil. Boil the noodles according to package directions.
