@@ -46,8 +46,8 @@ layout: base
       <article role="main" class="blog-post recipe">
         {{ content }}
 
-        Source:
         {% if page.sourceUrl or page.source %}
+          Source:
           {% if page.sourceUrl %} <a href="{{ page.sourceUrl }}" target="_blank"> {% endif %}
             <span class="source">
               {% if page.source %}
