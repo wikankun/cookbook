@@ -453,6 +453,19 @@ footer .theme-by {
     float: left;
   }
 }
+
+/* --- List View --- */
+.post-list-preview {
+  padding: 10px 0;
+  border: none;
+}
+.post-list-preview .post-title {
+  font-weight: 300;
+  margin-bottom: 0;
+}
+.post-list-preview .blog-tags {
+  margin-bottom: 0;
+}
 /* --- Post and page headers --- */
 
 .intro-header {
