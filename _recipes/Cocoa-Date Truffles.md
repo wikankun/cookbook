@@ -7,13 +7,13 @@ tags: [dessert, vegan, vegetarian]
 ---
 # Cocoa-Date Truffles
 
-> An adjusted version based on the original source. Picture is self-made.
+> An adjusted version based on the original source.
 
 ![Image of Cocoa-Date Truffles](../../img/Cocoa-Date Truffles.jpg)
 
 - 2 tablespoons cocao powder
 - 1 cup dates (pitted)
-- 3 tablespoons unsweetened shredded coconut
+- 2 tablespoons unsweetened shredded coconut
 - tiny pinch of sea salt
 
 - a little bit of cocoa powder to roll in
