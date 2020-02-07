@@ -10,20 +10,23 @@ tags: [vegetarian, vegan, glutenfree, dairyfree, indian, thai, asian, instantpot
 
 ![Image of Sweet Potatoes with Thai Peanut Butter Sauce](../../img/Sweet Potatoes with Thai Peanut Butter Sauce.jpg)
 
-
-- 4 medium to large sweet potatoes (10 to 12 ounces each)
-- 1/2 red bell pepper
-- 1/2 yellow bell pepper
-- 1 green onion
-- 1/4 cup chopped cilantro
-- 2 tablespoons fresh lime juice (1 lime)
-- 1/4 teaspoon kosher salt
-- Crushed peanuts, for the garnish
-- 1/3 cup peanut butter
-- 2 tablespoons soy sauce
-- 2 tablespoons lime juice (1 lime)
-- 1 teaspoon maple syrup
-- 2 tablespoons water
+- Potatoes
+  - 4 medium to large sweet potatoes (10 to 12 ounces each)
+  - 1 cup of water
+- Slaw
+  - 1/2 red bell pepper
+  - 1/2 yellow bell pepper
+  - 1 green onion
+  - 1/4 cup chopped cilantro
+  - 2 tablespoons fresh lime juice (1 lime)
+  - 1/4 teaspoon kosher salt
+  - Crushed peanuts, for the garnish
+ - Sauce
+  - 1/3 cup peanut butter
+  - 2 tablespoons soy sauce
+  - 2 tablespoons lime juice (1 lime)
+  - 1 teaspoon maple syrup
+  - 2 tablespoons water
 
 ## Main Recipe
 1. Cook the sweet potatoes using our Instant Pot Sweet Potatoes recipe (see below, takes about 35 minutes total; make the remainder of the recipe during this time!). Or, to bake the sweet potatoes: Slice the sweet potatoes in half. Preheat the oven to 400F and rub the halved sweet potatoes with the olive oil on all sides.
