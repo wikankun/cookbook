@@ -25,7 +25,6 @@ tags: [vegetarian]
   - 2 tablespoons extra-virgin olive oil
   - 2 cloves garlic, pressed or minced
   - ½ teaspoon salt
-  - ¼ teaspoon red pepper flakes
 - Remaining Ingredients
   - 2 cups (16 ounces) low-fat cottage cheese, divided
   - ¼ teaspoon salt, to taste
@@ -37,7 +36,7 @@ tags: [vegetarian]
 1. Preheat the oven to 425 degrees Fahrenheit.
 2. To prepare the veggies: In a large skillet over medium heat, warm the olive oil over medium heat. Once shimmering, add the carrots, bell pepper, zucchini, yellow onion, and salt. Cook, stirring every couple of minutes, until the veggies are golden on the edges, about 8 to 12 minutes.
 3. Add a few large handfuls of spinach. Cook, stirring frequently, until the spinach has wilted. Repeat with remaining spinach and cook until all of the spinach has wilted, about 3 minutes. Remove the skillet from the heat and set aside.
-4. Meanwhile, to prepare the tomato sauce: Pour the tomatoes into a mesh sieve or fine colander and drain off the excess juice for a minute. Then, transfer the drained tomatoes to the bowl of a food processor. Add the basil, olive oil, garlic, salt, and red pepper flakes.
+4. Meanwhile, to prepare the tomato sauce: Pour the tomatoes into a mesh sieve or fine colander and drain off the excess juice for a minute. Then, transfer the drained tomatoes to the bowl of a food processor. Add the basil, olive oil, garlic, and salt.
 5. Pulse the mixture about 10 times, until the tomatoes have broken down to an easily spreadable consistency. Pour the mixture into a bowl for later (you should have a little over 2 cups sauce). Rinse out the food processor and return it to the machine.
 6. Pour half of the cottage cheese (1 cup) into the processor and blend it until smooth, about 1 minute. Transfer the mixture to large mixing bowl. No need to rinse out the bowl of the food processor this time; just put it back onto the machine because you’ll need it later.
 7. Transfer the cooked veggies and spinach mixture to the bowl of the food processor. Pulse until they are more finely chopped (but not puréed!), about 5 to 7 times, stopping to scrape down the sides as necessary. Transfer the mixture to the bowl of whipped cottage cheese. Top with the remaining cottage cheese, then add 1/4 to 1/2 teaspoon salt (to taste) and lots of freshly ground black pepper. Stir to combine. Now it’s lasagna assembly time!
