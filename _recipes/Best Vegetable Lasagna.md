@@ -26,7 +26,7 @@ tags: [vegetarian]
   - 2 cloves garlic, pressed or minced
   - ½ teaspoon salt
 - Remaining Ingredients
-  - 2 cups (16 ounces) low-fat cottage cheese, divided
+  - 2 cups (16 ounces / ½ a package) low-fat cottage cheese, divided
   - ¼ teaspoon salt, to taste
   - Freshly ground black pepper, to taste
   - 9 no-boil lasagna noodles, preferably whole wheat
