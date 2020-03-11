@@ -4,7 +4,7 @@ spoonacularSourceUrl: https://spoonacular.com/no-knead-bread-992773
 date: 2019-11-27
 cooking_time: 90
 servings: 24
-tags: [vegetarian, vegan, dairyfree]
+tags: [vegetarian, vegan, dairyfree, best-of]
 ---
 # No-Knead Bread
 
