@@ -9,6 +9,7 @@ tags: [vegetarian, vegan, dairyfree, best-of]
 # No-Knead Bread
 
 ![Image of No-Knead Bread](../../img/No-Knead Bread.jpg)
+![Image of No-Knead Bread](../../img/No-Knead Bread-2.jpg)
 
 
 - 3 cups all-purpose or bread flour, more for dusting
