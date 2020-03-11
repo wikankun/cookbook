@@ -4,7 +4,7 @@ spoonacularSourceUrl: https://spoonacular.com/sweet-potatoes-with-thai-peanut-bu
 date: 2020-02-07
 cooking_time: NaN
 servings: 4
-tags: [vegetarian, vegan, glutenfree, dairyfree, indian, thai, asian, instantpot]
+tags: [vegetarian, vegan, glutenfree, dairyfree, indian, thai, asian, instantpot, best-of]
 ---
 # Sweet Potatoes with Thai Peanut Butter Sauce
 

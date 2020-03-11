@@ -4,7 +4,7 @@ spoonacularSourceUrl:
 date: 2019-10-27
 cooking_time: 60
 servings: 8
-tags: [vegetarian]
+tags: [vegetarian, best-of]
 ---
 # Best Vegetable Lasagna
 
