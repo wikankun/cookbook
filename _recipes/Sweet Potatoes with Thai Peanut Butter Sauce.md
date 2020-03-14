@@ -14,6 +14,7 @@ tags: [vegetarian, vegan, glutenfree, dairyfree, indian, thai, asian, instantpot
   - 4 medium to large sweet potatoes (10 to 12 ounces each)
   - 1 cup of water
 - Slaw
+  - 1/4 red cabbage (3 cups shredded)
   - 1/2 red bell pepper
   - 1/2 yellow bell pepper
   - 1 green onion
