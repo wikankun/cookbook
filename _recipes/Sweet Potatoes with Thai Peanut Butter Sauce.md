@@ -21,7 +21,7 @@ tags: [vegetarian, vegan, glutenfree, dairyfree, indian, thai, asian, instantpot
   - 2 tablespoons fresh lime juice (1 lime)
   - 1/4 teaspoon kosher salt
   - Crushed peanuts, for the garnish
- - Sauce
+- Sauce
   - 1/3 cup peanut butter
   - 2 tablespoons soy sauce
   - 2 tablespoons lime juice (1 lime)
