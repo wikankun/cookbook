@@ -6,7 +6,7 @@ cooking_time: 85
 servings: 2
 tags: [glutenfree, dairyfree, american]
 ---
-# Crispy Oven Fries (with 2 great tips to make them crispy!)
+# Crispy Oven Fries
 
 ![Image of Crispy Oven Fries (with 2 great tips to make them crispy!)](../../img/Crispy Oven Fries (with 2 great tips to make them crispy!).jpg)
 

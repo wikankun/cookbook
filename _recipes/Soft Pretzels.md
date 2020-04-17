@@ -6,7 +6,7 @@ cooking_time: 40
 servings: 12
 tags: []
 ---
-# Easy Homemade Soft Pretzels + Video
+# Soft Pretzels
 
 ![Image of Easy Homemade Soft Pretzels + Video](../../img/Easy Homemade Soft Pretzels + Video.jpg)
 

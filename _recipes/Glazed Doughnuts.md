@@ -6,7 +6,7 @@ cooking_time: 120
 servings: 12
 tags: [todo]
 ---
-# How to Make Homemade Glazed Doughnuts
+# Glazed Doughnuts
 
 ![Image of How to Make Homemade Glazed Doughnuts](../../img/How to Make Homemade Glazed Doughnuts.jpg)
 
