@@ -8,7 +8,7 @@ tags: []
 ---
 # Soft Pretzels
 
-![Image of Easy Homemade Soft Pretzels + Video](../../img/Easy Homemade Soft Pretzels + Video.jpg)
+![Image of Soft Pretzels](../../img/Soft Pretzels.jpg)
 
 
 - 1 1/2 cups (360ml) warm water (lukewarm– no need to take temperature)
