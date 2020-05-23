@@ -4,6 +4,8 @@ date: 2020-03-29
 ---
 # Eistee Sirup
 
+![Image of Eistee Sirup](../../img/Eistee Sirup.jpg)
+
 - 450g Zitronen
 - 500g Rohrzucker
 - 600ml Wasser
