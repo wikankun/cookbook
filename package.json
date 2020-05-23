@@ -5,6 +5,7 @@
   "main": "CLI/main.js",
   "scripts": {
     "add": "CLI/main.js",
+    "serve": "jekyll serve",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jan Simson",
