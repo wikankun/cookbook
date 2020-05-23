@@ -15,6 +15,11 @@ var main = {
         }
     });
 
+    $('.recipe > ol li').click(function () {
+      $('.active-step').removeClass('active-step')
+      $(this).addClass('active-step')
+    })
+
     // On mobile, hide the avatar when expanding the navbar menu
     $('#main-navbar').on('show.bs.collapse', function () {
       $(".navbar").addClass("top-nav-expanded");
