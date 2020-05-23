@@ -171,6 +171,7 @@ img {
   left: 50%;
   width: 50px;
   margin-top: -25px;
+  transition: opacity .5s linear;
 }
 .navbar-custom .avatar-container .avatar-img-border {
   width: 100%;
@@ -207,6 +208,10 @@ img {
   .navbar-custom .avatar-container .avatar-img {
     width: 100%;
   }
+}
+
+.navbar-custom.top-nav-short .avatar-container {
+  opacity: 0;
 }
 
 /* Multi-level navigation links */
