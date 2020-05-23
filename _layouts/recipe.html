@@ -2,23 +2,56 @@
 layout: base
 ---
 
-{% include header.html type="post" %}
+<header class="header-section">
+  <!-- Intro-header has the necessary margins to avoid overlap with the nav -->
+  <div class="intro-header no-img"></div>
+</header>
 
 <div class="container">
   <div class="row">
-    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+    <div class="col-xs-12">
 
-      {% if page.tags.size > 0 %}
-        <div class="blog-tags">
-          {% if site.link-tags %}
-          {% for tag in page.tags %}
-            <a class="tag-{{- tag -}}" href="{{ '/tags' | relative_url }}#{{- tag -}}">{{- tag -}}</a>
-          {% endfor %}
+      <div class="recipe-heading">
+        <h1>{% if page.title %}{{ page.title }}{% else %}<br/>{% endif %}</h1>
+
+        {% if page.subtitle %}
+          {% if include.type == "page" %}
+              <hr class="small">
+              <span class="recipe-subheading">{{ page.subtitle }}</span>
           {% else %}
-            {{ page.tags | join: ", " }}
+            <h2 class="recipe-subheading">{{ page.subtitle }}</h2>
           {% endif %}
-        </div>
-      {% endif %}
+        {% endif %}
+      </div>
+
+      <div class="recipe-preamble">
+        {% if page.tags.size > 0 %}
+          <div class="blog-tags">
+            {% if site.link-tags %}
+            {% for tag in page.tags %}
+              <a class="tag-{{- tag -}}" href="{{ '/tags' | relative_url }}#{{- tag -}}">{{- tag -}}</a>
+            {% endfor %}
+            {% else %}
+              {{ page.tags | join: ", " }}
+            {% endif %}
+          </div>
+        {% endif %}
+
+        {% if page.sourceUrl or page.source %}
+          <div class="recipe-source">
+            Source:
+            {% if page.sourceUrl %} <a href="{{ page.sourceUrl }}" target="_blank"> {% endif %}
+              <span class="source">
+                {% if page.source %}
+                  {{page.source}}
+                {% else %}
+                  {{page.sourceUrl | remove:'http://' | remove:'https://' | split:'/' | first}}
+                {% endif %}
+              </span>
+            {% if page.sourceUrl %} </a> {% endif %}
+          </div>
+        {% endif %}
+      </div>
 
       {% if page.gh-repo %}
         {% assign gh_split =  page.gh-repo | split:'/'  %}
@@ -45,21 +78,9 @@ layout: base
 
       <article role="main" class="blog-post recipe">
         {{ content }}
-
-        {% if page.sourceUrl or page.source %}
-          Source:
-          {% if page.sourceUrl %} <a href="{{ page.sourceUrl }}" target="_blank"> {% endif %}
-            <span class="source">
-              {% if page.source %}
-                {{page.source}}
-              {% else %}
-                {{page.sourceUrl}}
-              {% endif %}
-            </span>
-          {% if page.sourceUrl %} </a> {% endif %}
-        {% endif %}
-
       </article>
+
+      <span class="post-meta">Added on {{ page.date | date: site.date_format }}</span>
 
       {% if page.social-share %}
         {% include social-share.html %}
