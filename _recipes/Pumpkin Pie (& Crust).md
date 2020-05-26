@@ -8,7 +8,7 @@ tags: [vegetarian, dessert, best-of]
 
 # Pumpkin Pie
 
-![Pumpkin Pie](../img/Pumpkin Pie.jpg)
+![Pumpkin Pie](../../img/Pumpkin Pie.jpg)
 
 ## Crust
 
