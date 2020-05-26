@@ -42,7 +42,7 @@ tags: [vegetarian, dessert, best-of]
 
 
 
-![Making the Filling](../img/Pumkin Pie WIP.jpg)
+![Making the Filling](../../img/Pumkin Pie WIP.jpg)
 
 - [Homemade pie crust](https://sallysbakingaddiction.com/2015/07/01/baking-basics-homemade-buttery-flaky-pie-crust/) (full recipe makes 2 crusts: 1 for bottom, 1 for leaf decor)
 - one 15oz can (about 2 cups; 450g) **pumpkin puree***
