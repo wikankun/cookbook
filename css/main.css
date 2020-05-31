@@ -1234,3 +1234,36 @@ Table of Contents
 	-moz-transition-duration: 1.2s;
 	transition-duration: 1.2s;
 }
+
+/* Recipe Ingredient Scaling */
+.recipe-scaling input {
+  border: none;
+  border-bottom: 1px solid lightgrey;
+  text-align: center;
+}
+/* Hide tiny number controls */
+.recipe-scaling input[type=number]::-webkit-outer-spin-button,
+.recipe-scaling input[type=number]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.recipe-scaling input[type=number] {
+    -moz-appearance:textfield;
+}
+.recipe-scaling button {
+  background-color: transparent;
+  box-shadow: 0 1px 6px rgba(0,0,0,.2);
+  border: none;
+  transition: box-shadow .25s ease;
+}
+.recipe-scaling button:hover {
+  box-shadow: 0 3px 9px rgba(0,0,0,.25);
+}
+.recipe-scaling button.decrease {
+  margin-left: 10px;
+}
+
+.recipe ul > li > span.scaled {
+  font-weight: bold;
+}

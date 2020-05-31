@@ -4,6 +4,7 @@ spoonacularSourceUrl:
 date: 2020-05-14
 cooking_time: 75
 servings: 1
+servingsUnit: pie(s)
 tags: [vegetarian, german, dessert]
 ---
 # Key-Lime-Pie
