@@ -472,6 +472,11 @@ footer .theme-by {
   background: red;
 }
 
+.recipe-date {
+  display: block;
+  margin: 3em auto;
+}
+
 /* --- Tags --- */
 
 .blog-tags {
