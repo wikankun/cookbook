@@ -77,7 +77,7 @@ layout: base
       {% endif %}
 
       <div class="recipe-scaling">
-        <input type="number" name="recipe_scaling" size="2" value="{{ page.servings or 1}}">
+        <input type="text" name="recipe_scaling" size="2" value="{% if page.servings %}{{ page.servings}}{% else %}1{% endif %}">
         {% if page.servingsUnit %}{{ page.servingsUnit}}{% else %}serving(s){% endif %}.
 
         <button title="Decrease number of servings" class="decrease">-</button>
