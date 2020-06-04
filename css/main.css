@@ -381,6 +381,9 @@ footer .theme-by {
   margin-bottom: 2.5rem;
   border: 1px solid lightgrey;
 }
+.recipe-preview .text {
+  padding: 0 .8rem 1.5rem 0.8rem;
+}
 @media (min-width: 768px) {
   .recipes-list {
     columns: auto 260px;
@@ -398,10 +401,6 @@ footer .theme-by {
 .recipe-preview img {
   width: 100%;
 }
-.recipe-preview .post-title {
-  padding: 0 10px;
-}
-
 /* --- Recipe --- */
 .recipe-heading > h1 {
   font-size: 5rem;
@@ -410,6 +409,8 @@ footer .theme-by {
   display: flex;
   flex-wrap:wrap;
   justify-content: space-between;
+
+  margin: 1em auto;
 }
 .recipe-source {
   font-style: italic;
@@ -417,6 +418,8 @@ footer .theme-by {
 .recipe {
   display: flex;
   flex-wrap: wrap;
+
+  margin-top: 1em;
 }
 .recipe > * {
   flex: 1 1 100%;
@@ -483,7 +486,6 @@ footer .theme-by {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   color: #999;
   font-size: 15px;
-  margin-bottom: 30px;
 }
 
 .blog-tags a {
@@ -993,24 +995,21 @@ Table of Contents
 
 /* HARDCOVER FRONT */
 
-.paperback_front {
-	background-color: #800000;
+.paperback_front,
+.paperback_back {
+	background-color: #036;
 }
 
 .paperback_front::after{
-	background-image: -webkit-linear-gradient( -135deg, rgba(255, 255, 255, 0.45) 0%, transparent 100%);
-	background-image: -moz-linear-gradient( -135deg, rgba(255, 255, 255, 0.45) 0%, transparent 100%);
-	background-image: linear-gradient( -135deg, rgba(255, 255, 255, 0.45) 0%, transparent 100%);
+	background-image: -webkit-linear-gradient( -135deg, rgba(255, 255, 255, 0.25) 0%, transparent 100%);
+	background-image: -moz-linear-gradient( -135deg, rgba(255, 255, 255, 0.25) 0%, transparent 100%);
+	background-image: linear-gradient( -135deg, rgba(255, 255, 255, 0.25) 0%, transparent 100%);
 	position: absolute;
 	top: 0;
 	left: 0;
 	bottom: 0;
   right: 0;
   content: "";
-}
-
-.paperback_back {
-	background-color: #800000;
 }
 
 .titlepage {
@@ -1245,6 +1244,8 @@ Table of Contents
   border: none;
   border-bottom: 1px solid lightgrey;
   text-align: center;
+  /* since iOS doesn't respect size attribute */
+  max-width: 3em;
 }
 /* Hide tiny number controls */
 .recipe-scaling input[type=number]::-webkit-outer-spin-button,
