@@ -4,7 +4,7 @@ spoonacularSourceUrl:
 date: 2020-03-23
 cooking_time: 40
 servings: 12
-tags: []
+tags: [vegetarian, best-of]
 ---
 # Soft Pretzels
 
