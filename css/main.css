@@ -506,9 +506,11 @@ footer .theme-by {
 }
 
 /* Specificly colored tags */
-.blog-tags .tag-vegetarian,
-.blog-tags .tag-vegan {
+.blog-tags .tag-vegetarian {
   color: green;
+}
+.blog-tags .tag-vegan {
+  color: darkgreen;
 }
 .blog-tags .tag-todo {
   color: orange;
@@ -516,8 +518,12 @@ footer .theme-by {
 .blog-tags .tag-instant {
   color: red;
 }
-.blog-tags .tag-german:after {
+.blog-tags .tag-german::after {
   content: ' 🇩🇪';
+  display: inline;
+}
+.blog-tags .tag-best-of::after {
+  content: ' 🏆️';
   display: inline;
 }
 
