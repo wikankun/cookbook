@@ -34,31 +34,34 @@ use-site-title: true
       {% endif %}
     </div>
 
-    <a href="{{ post.url | relative_url }}">
-	  <h2 class="post-title">{{ post.title }}</h2>
+    <div class="text">
 
-	  {% if post.subtitle %}
-	  <h3 class="recipe-subtitle">
-	    {{ post.subtitle }}
-	  </h3>
-	  {% endif %}
-    </a>
+      <a href="{{ post.url | relative_url }}">
+        <h2 class="post-title">{{ post.title }}</h2>
 
-    <!-- <p class="recipe-meta">
-      {{ post.date | date: site.date_format }}
-    </p> -->
-
-    {% if post.tags.size > 0 %}
-      <div class="blog-tags">
-        {% if site.link-tags %}
-        {% for tag in post.tags %}
-        <a class="tag-{{- tag -}}" href="{{ '/tags' | relative_url }}#{{- tag -}}">{{- tag -}}</a>
-        {% endfor %}
-        {% else %}
-          {{ post.tags | join: ", " }}
+        {% if post.subtitle %}
+        <h3 class="recipe-subtitle">
+          {{ post.subtitle }}
+        </h3>
         {% endif %}
-      </div>
-    {% endif %}
+      </a>
+
+      <!-- <p class="recipe-meta">
+        {{ post.date | date: site.date_format }}
+      </p> -->
+
+      {% if post.tags.size > 0 %}
+        <div class="blog-tags">
+          {% if site.link-tags %}
+          {% for tag in post.tags %}
+          <a class="tag-{{- tag -}}" href="{{ '/tags' | relative_url }}#{{- tag -}}">{{- tag -}}</a>
+          {% endfor %}
+          {% else %}
+            {{ post.tags | join: ", " }}
+          {% endif %}
+        </div>
+      {% endif %}
+    </div>
 
    </article>
   {% endfor %}
