@@ -77,5 +77,3 @@ var increaseButton = document.querySelector('.increase')
 if (increaseButton) {
   increaseButton.addEventListener('click', () => changeValue('up'))
 }
-
-console.log("Hallo?", initialIngredients)
