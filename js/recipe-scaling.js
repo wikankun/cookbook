@@ -9,12 +9,12 @@ function getIngredients (entries) {
     }
 
     var text = el.innerHTML
-    var numbers = text.match(/^\d+|\d+\b|\d+(?=\w)/g)
+    var numbers = text.match(/^\d+\.\d+|\d+|\d+\b|\d+(?=\w)/g)
     var name, amount
     if (numbers && numbers.length > 0) {
       var amountString = numbers[0]
       name = text.replace(amountString, '')
-      amount = parseInt(amountString)
+      amount = parseFloat(amountString)
     } else {
       name = text
     }
