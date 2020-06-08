@@ -199,6 +199,7 @@ exclude:
   - Vagrantfile
   - docker-compose.yml
   - CLI
+  - package.json
 
 # prose.io config
 prose:
