@@ -16,7 +16,7 @@
           {% if image contains 'src' %}
               {% if foundImage == 0 %}
                   {% assign imageSrc = image | split:"/>" | first %}
-                  {% assign urlPrefix = baseurl | append: "/" %}
+                  {% assign urlPrefix = "/" | relative_url %}
                   <a href="{{ post.url | relative_url }}">
                     <img {{ imageSrc | replace: "../", urlPrefix }} />
                   </a>
