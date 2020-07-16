@@ -8,7 +8,7 @@ tags: [vegetarian, dairyfree, indian, asian]
 ---
 # Thai Butternut Squash Curry
 
-![Image of Thai Butternut Squash Curry](../../img/Thai Butternut Squash Curry.jpg)
+![Image of Thai Butternut Squash Curry](../img/Thai Butternut Squash Curry.jpg)
 
 
 - 2 cups low sodium veggie broth

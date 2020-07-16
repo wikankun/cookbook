@@ -8,7 +8,7 @@ tags: [vegetarian, german]
 
 > Biskuitboden Rezept von meiner Uroma!
 
-![Image of Biskuitboden](../../img/Biskuitboden.jpg)
+![Image of Biskuitboden](../img/Biskuitboden.jpg)
 
 - 125g Mehl
 - 1 gestr. TL Backpulver (Backin)

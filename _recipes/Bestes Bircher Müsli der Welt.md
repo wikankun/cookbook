@@ -8,7 +8,7 @@ tags: [vegetarian, german]
 ---
 # Bestes Bircher Müsli der Welt
 
-![Image of Bestes Bircher Müsli der Welt](../../img/Bestes Bircher Müsli der Welt.jpg)
+![Image of Bestes Bircher Müsli der Welt](../img/Bestes Bircher Müsli der Welt.jpg)
 
 
 - 250 g Haferflocken

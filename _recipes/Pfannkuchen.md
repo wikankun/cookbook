@@ -5,7 +5,7 @@ tags: [german]
 ---
 # Pfannkuchen
 
-![Image of Pfannkuchen](../../img/Pfannkuchen.jpg)
+![Image of Pfannkuchen](../img/Pfannkuchen.jpg)
 
 
 - 1 Ei

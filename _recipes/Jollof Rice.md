@@ -8,7 +8,7 @@ tags: [vegan, todo]
 ---
 # Jollof Rice
 
-![Image of Jollof Rice](../../img/Jollof Rice.jpg)
+![Image of Jollof Rice](../img/Jollof Rice.jpg)
 
 
 - 2 medium tomatoes, roughly chopped (about 5 ounces each)

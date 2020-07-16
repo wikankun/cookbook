@@ -8,7 +8,7 @@ tags: [vegan, german]
 ---
 # Pico de Gallo
 
-![Image of Pico de Gallo](../../img/Pico de Gallo.jpg)
+![Image of Pico de Gallo](../img/Pico de Gallo.jpg)
 
 
 - 4 Fleischtomate(n)

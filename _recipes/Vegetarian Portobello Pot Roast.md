@@ -8,7 +8,7 @@ tags: [todo, vegetarian, instant pot]
 ---
 # Vegetarian Portobello Pot Roast
 
-![Image of Vegetarian Portobello Pot Roast](../../img/Vegetarian Portobello Pot Roast.jpg)
+![Image of Vegetarian Portobello Pot Roast](../img/Vegetarian Portobello Pot Roast.jpg)
 
 
 - 1.25 pounds Yukon gold potatoes, cut into bite-sized pieces

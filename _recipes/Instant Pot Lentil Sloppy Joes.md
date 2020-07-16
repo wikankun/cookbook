@@ -8,7 +8,7 @@ tags: [todo, vegetarian, instant pot]
 ---
 # Instant Pot Lentil Sloppy Joes
 
-![Image of Instant Pot Lentil Sloppy Joes](../../img/Instant Pot Lentil Sloppy Joes.jpg)
+![Image of Instant Pot Lentil Sloppy Joes](../img/Instant Pot Lentil Sloppy Joes.jpg)
 
 
 - 1/2 yellow onion diced (about 1/2 an onion)

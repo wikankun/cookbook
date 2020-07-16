@@ -9,7 +9,7 @@ tags: [vegetarian, german, dessert]
 ---
 # Key-Lime-Pie
 
-![Image of Key-Lime-Pie](../../img/Key-Lime-Pie.jpg)
+![Image of Key-Lime-Pie](../img/Key-Lime-Pie.jpg)
 
 - Boden
   - 120 g Butter , geschmolzene

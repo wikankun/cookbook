@@ -8,7 +8,7 @@ tags: [vegetarian]
 ---
 # Soy Sauce Fried Rice (酱油炒饭)
 
-![Image of Soy Sauce Fried Rice (酱油炒饭)](../../img/Soy Sauce Fried Rice (酱油炒饭).jpg)
+![Image of Soy Sauce Fried Rice (酱油炒饭)](../img/Soy Sauce Fried Rice (酱油炒饭).jpg)
 
 
 - 2 tablespoons light soy sauce

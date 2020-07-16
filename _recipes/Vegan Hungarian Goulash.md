@@ -8,7 +8,7 @@ tags: [vegan]
 ---
 # Vegan Hungarian Goulash
 
-![Image of Vegan Hungarian Goulash](../../img/Vegan Hungarian Goulash.jpg)
+![Image of Vegan Hungarian Goulash](../img/Vegan Hungarian Goulash.jpg)
 
 
 - 2 packed cups (320g) finely chopped white onion

@@ -8,7 +8,7 @@ tags: [german]
 ---
 # Schneller Flammkuchen
 
-![Image of Schneller Flammkuchen](../../img/Schneller Flammkuchen.jpg)
+![Image of Schneller Flammkuchen](../img/Schneller Flammkuchen.jpg)
 
 
 - Teig

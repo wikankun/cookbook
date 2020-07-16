@@ -8,7 +8,7 @@ tags: [todo]
 ---
 # Glazed Doughnuts
 
-![Image of How to Make Homemade Glazed Doughnuts](../../img/How to Make Homemade Glazed Doughnuts.jpg)
+![Image of How to Make Homemade Glazed Doughnuts](../img/How to Make Homemade Glazed Doughnuts.jpg)
 
 
 - 1 cup (240ml) whole milk, warmed to about 110°F*

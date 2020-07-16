@@ -8,7 +8,7 @@ tags: [vegetarian, dairyfree]
 ---
 # BBQ Tofu Sliders
 
-![Image of BBQ Tofu Sliders](../../img/BBQ Tofu Sliders.jpg)
+![Image of BBQ Tofu Sliders](../img/BBQ Tofu Sliders.jpg)
 
 
 - BBQ Tofu

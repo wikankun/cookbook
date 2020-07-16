@@ -8,7 +8,7 @@ tags: [vegetarian, best-of]
 ---
 # Pizza-Dough
 
-![Image of Pizza-Dough](../../img/Pizza-Dough.jpg)
+![Image of Pizza-Dough](../img/Pizza-Dough.jpg)
 
 
 - 526.95g Flour (100%)

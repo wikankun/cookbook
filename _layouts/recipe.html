@@ -85,7 +85,7 @@ layout: base
       </div>
 
       <article role="main" class="blog-post recipe">
-        {{ content }}
+        {{ content | replace: "../", "../../" }}
       </article>
 
       <span class="post-meta recipe-date">Added on {{ page.date | date: site.date_format }}</span>

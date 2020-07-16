@@ -8,7 +8,7 @@ tags: [vegetarian, vegan, glutenfree, dairyfree, indian, thai, asian, instantpot
 ---
 # Sweet Potatoes with Thai Peanut Butter Sauce
 
-![Image of Sweet Potatoes with Thai Peanut Butter Sauce](../../img/Sweet Potatoes with Thai Peanut Butter Sauce.jpg)
+![Image of Sweet Potatoes with Thai Peanut Butter Sauce](../img/Sweet Potatoes with Thai Peanut Butter Sauce.jpg)
 
 - Potatoes
   - 4 medium to large sweet potatoes (10 to 12 ounces each)

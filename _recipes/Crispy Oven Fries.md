@@ -8,7 +8,7 @@ tags: [glutenfree, dairyfree, american]
 ---
 # Crispy Oven Fries
 
-![Image of Crispy Oven Fries (with 2 great tips to make them crispy!)](../../img/Crispy Oven Fries (with 2 great tips to make them crispy!).jpg)
+![Image of Crispy Oven Fries (with 2 great tips to make them crispy!)](../img/Crispy Oven Fries (with 2 great tips to make them crispy!).jpg)
 
 
 - 4 large baking potatoes

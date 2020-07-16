@@ -8,7 +8,7 @@ tags: []
 ---
 # Instant Pot Minestrone
 
-![Image of Instant Pot Minestrone](../../img/Instant Pot Minestrone.jpg)
+![Image of Instant Pot Minestrone](../img/Instant Pot Minestrone.jpg)
 
 
 - 1 medium onion (or leek)

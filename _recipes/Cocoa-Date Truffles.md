@@ -9,7 +9,7 @@ tags: [dessert, vegan, vegetarian]
 
 > An adjusted version based on the original source.
 
-![Image of Cocoa-Date Truffles](../../img/Cocoa-Date Truffles.jpg)
+![Image of Cocoa-Date Truffles](../img/Cocoa-Date Truffles.jpg)
 
 - 2 tablespoons cocao powder
 - 1 cup dates (pitted)

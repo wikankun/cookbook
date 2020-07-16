@@ -8,7 +8,7 @@ tags: [dairyfree, american]
 ---
 # Vegan Sloppy Joes
 
-![Image of Vegan Sloppy Joes](../../img/Vegan Sloppy Joes.jpg)
+![Image of Vegan Sloppy Joes](../img/Vegan Sloppy Joes.jpg)
 
 
 - 1-2 tsp chili powder, plus more to taste

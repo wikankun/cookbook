@@ -8,7 +8,7 @@ tags: [vegetarian, best-of]
 ---
 # Soft Pretzels
 
-![Image of Soft Pretzels](../../img/Soft Pretzels.jpg)
+![Image of Soft Pretzels](../img/Soft Pretzels.jpg)
 
 
 - 1 1/2 cups (360ml) warm water (lukewarm– no need to take temperature)

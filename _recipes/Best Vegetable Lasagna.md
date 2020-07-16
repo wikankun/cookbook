@@ -8,7 +8,7 @@ tags: [vegetarian, best-of]
 ---
 # Best Vegetable Lasagna
 
-![Image of Best Vegetable Lasagna](../../img/Best Vegetable Lasagna.jpg)
+![Image of Best Vegetable Lasagna](../img/Best Vegetable Lasagna.jpg)
 
 
 - Veggies and spinach

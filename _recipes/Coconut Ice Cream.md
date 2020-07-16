@@ -8,7 +8,7 @@ tags: [dessert, simple, vegetarian]
 ---
 # Coconut Ice Cream
 
-![Image of Coconut Ice Cream](../../img/Coconut Ice Cream.jpg)
+![Image of Coconut Ice Cream](../img/Coconut Ice Cream.jpg)
 
 
 - 1 cup milk

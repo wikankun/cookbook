@@ -8,7 +8,7 @@ tags: [vegetarian, german]
 ---
 # Zitronenkuchen
 
-![Image of Zitronenkuchen](../../img/Zitronenkuchen.jpg)
+![Image of Zitronenkuchen](../img/Zitronenkuchen.jpg)
 
 
 - 350 g Margarine
