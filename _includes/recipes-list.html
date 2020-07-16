@@ -1,0 +1,61 @@
+<div class="recipes-list">
+  {% for post in recipes %}
+  <article class="recipe-preview">
+
+    <div class="recipe-entry-container">
+      {% if post.image %}
+      <div class="recipe-image">
+        <a href="{{ post.url | relative_url }}">
+          <img src="{{ post.image | relative_url }}">
+        </a>
+      </div>
+      {% else %}
+        {% assign foundImage = 0 %}
+        {% assign images = post.content | split:"<img " %}
+        {% for image in images %}
+          {% if image contains 'src' %}
+              {% if foundImage == 0 %}
+                  {% assign imageSrc = image | split:"/>" | first %}
+                  {% assign urlPrefix = baseurl | append: "/" %}
+                  <a href="{{ post.url | relative_url }}">
+                    <img {{ imageSrc | replace: "../", urlPrefix }} />
+                  </a>
+                  {% assign foundImage = 1 %}
+              {% endif %}
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+    </div>
+
+    <div class="text">
+
+      <a href="{{ post.url | relative_url }}">
+        <h2 class="post-title">{{ post.title }}</h2>
+
+        {% if post.subtitle %}
+        <h3 class="recipe-subtitle">
+          {{ post.subtitle }}
+        </h3>
+        {% endif %}
+      </a>
+
+      <!-- <p class="recipe-meta">
+        {{ post.date | date: site.date_format }}
+      </p> -->
+
+      {% if hide_tags != true and post.tags.size > 0 %}
+        <div class="blog-tags">
+          {% if site.link-tags %}
+          {% for tag in post.tags %}
+          <a class="tag-{{- tag -}}" href="{{ '/tags' | relative_url }}#{{- tag -}}">{{- tag -}}</a>
+          {% endfor %}
+          {% else %}
+            {{ post.tags | join: ", " }}
+          {% endif %}
+        </div>
+      {% endif %}
+    </div>
+
+   </article>
+  {% endfor %}
+</div>

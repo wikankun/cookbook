@@ -11,17 +11,6 @@ Go to:
     {%- endfor -%}
 </span>
 
-{% for tag in tags %}
-  <h3 class="tag-{{ tag }}">{{ tag }}</h3>
-  <ul>
-    {% for recipe in site.recipes %}
-        {% if recipe.tags contains tag %}
-        <li><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.title }}</a></li>
-        {% endif %}
-    {% endfor %}
-  </ul>
-{% endfor %}
-
 <div id="full-tags-list">
 {%- for tag in tags_list -%}
     <h2 id="{{- tag -}}" class="linked-section tag-{{ tag }}">
@@ -29,17 +18,8 @@ Go to:
         &nbsp;
         {{- tag -}}
     </h2>
-    <div class="post-list">
-        {% for post in site.recipes %}
-            {% if post.tags contains tag %}
-                <div class="tag-entry">
-                    <a href="{{ post.url | relative_url }}">{{- post.title -}}</a>
-                    <div class="entry-date">
-                        <time datetime="{{- post.date | date_to_xmlschema -}}">{{- post.date | date: site.date_format -}}</time>
-                    </div>
-                </div>
-            {%- endif -%}
-        {%- endfor -%}
-    </div>
+    {% assign hide_tags = true %}
+    {% assign recipes = site.recipes | where_exp:"recipe", "recipe.tags contains tag" %}
+    {% include recipes-list.html %}
 {%- endfor -%}
 </div>
