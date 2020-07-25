@@ -7,7 +7,7 @@ const MARKDOWN_TEMPLATE = 'CLI/template.md.ejs'
 
 const OUTPUT_DIR = '_recipes/'
 const IMG_OUTPUT_DIR = 'img/'
-const MARKDOWN_IMG_PREFIX = `../../${IMG_OUTPUT_DIR}`
+const MARKDOWN_IMG_PREFIX = `../${IMG_OUTPUT_DIR}`
 
 async function extract(recipeUrl) {
   console.log('Extracting', recipeUrl)
