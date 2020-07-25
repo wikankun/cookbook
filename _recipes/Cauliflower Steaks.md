@@ -8,7 +8,7 @@ tags: [BBQ, vegan, vegetarian, todo]
 ---
 # BBQ cauliflower steaks and herb sauce
 
-![Image of Cauliflower Steaks](../../img/Cauliflower Steaks.jpg)
+![Image of Cauliflower Steaks](../img/Cauliflower Steaks.jpg)
 
 - for the cauliflower "steaks"
   - 2 cauliflowers, outer leaves removed
