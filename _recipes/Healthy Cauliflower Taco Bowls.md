@@ -12,8 +12,8 @@ tags: [vegan]
 > These Healthy Cauliflower Taco Bowls combine all of your favorite taco flavors in one simple recipe. Ready in just 30 minutes, this is the perfect vegan weeknight dinner!
 
 
-- 1 cup water
-- 1 tsp Better Than Bouillon No Chicken Base or 1 cup broth
+- 1 cup water (opt.)
+- 1 cup broth / bouillon
 - 1 tsp olive oil
 - 3 cloves garlic diced
 - 1/2 red onion diced
