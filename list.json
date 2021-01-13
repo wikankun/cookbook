@@ -3,13 +3,18 @@ layout: null
 ---
 [
   {% for recipe in site.recipes %}
+    {% capture list_entry %}
+      {% include recipes-list-entry.html %}
+    {% endcapture %}
+
     {
 
       "title"    : "{{ recipe.title | strip_html | escape }}",
       "url"      : "{{ site.baseurl }}{{ recipe.url }}",
       "tags"     : "{{ recipe.tags | join: ', ' }}",
       "date"     : "{{ recipe.date }}",
-      "sourceUrl"     : "{{ recipe.sourceUrl }}"
+      "sourceUrl"     : "{{ recipe.sourceUrl }}",
+      "list_entry_html": {{ list_entry | normalize_whitespace | jsonify }}
 
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}

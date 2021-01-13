@@ -374,6 +374,9 @@ footer .theme-by {
 }
 
 /* --- Recipe List --- */
+.recipes-list {
+  padding: 15px 0;
+}
 .recipe-preview {
   display: inline-block;
   border-radius: 15px;
