@@ -4,7 +4,7 @@ spoonacularSourceUrl:
 date: 2020-11-13
 cooking_time: NaN
 servings: 6
-tags: [glutenfree, dairyfree, bestof]
+tags: [glutenfree, dairyfree, best-of]
 ---
 # Crispy Roasted Potatoes
 

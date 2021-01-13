@@ -4,7 +4,7 @@ spoonacularSourceUrl: https://spoonacular.com/bbq-tofu-sliders-1014552
 date: 2020-03-14
 cooking_time: 20
 servings: 3
-tags: [vegetarian, dairyfree, bestof]
+tags: [vegetarian, dairyfree, best-of]
 ---
 # BBQ Tofu Sliders
 
