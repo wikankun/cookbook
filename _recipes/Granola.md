@@ -4,7 +4,7 @@ date: 2020-06-25
 servings: 1
 servingsUnit: baking sheet(s)
 tweaked: true
-tags: [vegetarian, vegan]
+tags: [vegetarian, vegan, best-of]
 ---
 # Homemade Granola
 

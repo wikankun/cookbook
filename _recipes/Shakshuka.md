@@ -4,7 +4,7 @@ spoonacularSourceUrl:
 date: 2020-10-25
 cooking_time: 60
 servings: 6
-tags: [todo, vegetarian, glutenfree, dairyfree]
+tags: [vegetarian, glutenfree, dairyfree]
 ---
 # Shakshuka
 

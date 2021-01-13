@@ -4,7 +4,7 @@ spoonacularSourceUrl:
 date: 2021-01-02
 cooking_time: 75
 servings: 4
-tags: []
+tags: [vegetarian, vegan, fancy]
 ---
 # Hearty Vegan Stew
 
