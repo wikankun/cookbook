@@ -1,3 +1,6 @@
+---
+layout: null
+---
 // The search script uses simple jekyll search by Christian Fei: https://github.com/christian-fei/Simple-Jekyll-Search
 
 // Only ever load one of the two search optios, due to
@@ -10,7 +13,7 @@ if (homeSearchInput) {
   var homeSearch = SimpleJekyllSearch({
     searchInput: homeSearchInput,
     resultsContainer: document.getElementById('home-search-results-container'),
-    json: '/list.json',
+    json: '{{ site.url }}/list.json',
     searchResultTemplate: '{list_entry_html}'
   })
 
@@ -23,6 +26,6 @@ if (homeSearchInput) {
   var navSearch = SimpleJekyllSearch({
     searchInput: document.getElementById('search-input'),
     resultsContainer: document.getElementById('search-results-container'),
-    json: '/list.json'
+    json: '{{ site.url }}/list.json'
   })
 }
