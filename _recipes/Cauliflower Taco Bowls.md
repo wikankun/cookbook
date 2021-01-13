@@ -1,13 +1,13 @@
 ---
 sourceUrl: https://www.thissavoryvegan.com/healthy-cauliflower-taco-bowls/
 date: 2019-10-27
-cooking_time: 30
+cooking_time: 45
 servings: 5
-tags: [vegan]
+tags: [vegan, mexican]
 ---
-# Healthy Cauliflower Taco Bowls
+# Cauliflower Taco Bowls
 
-![Image of Healthy Cauliflower Taco Bowls](../img/Healthy Cauliflower Taco Bowls.jpeg)
+![Image of Cauliflower Taco Bowls](../img/Cauliflower Taco Bowls.jpeg)
 
 > These Healthy Cauliflower Taco Bowls combine all of your favorite taco flavors in one simple recipe. Ready in just 30 minutes, this is the perfect vegan weeknight dinner!
 
