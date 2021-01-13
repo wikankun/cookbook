@@ -2,7 +2,7 @@
 layout: null
 ---
 
-@import url("pygment_highlights.css");
+@import url("pygment_highlights.css");layoutlayoutlayoutlayoutlayoutlayoutlayoutlayout
 
 /* --- General --- */
 
@@ -1282,4 +1282,31 @@ Table of Contents
 
 .recipe ul > li > span.scaled {
   font-weight: bold;
+}
+
+/* Search bar */
+#search-results-container {
+  position: absolute;
+  background-color: white;
+  padding: 15px;
+  padding-bottom: 0;
+  top: 100%;
+  list-style-type: none;
+  border-radius: 0 0 15px 15px;
+  /* box-shadow: 0 9px 25px rgba(0,0,0,0.40); */
+  border: 1px solid lightgray;
+  border-top: none;
+}
+#search-results-container:empty {
+  display: none;
+}
+@media (max-width: 768px) {
+  #search-results-container {
+    position: relative;
+  }
+}
+
+#search-results-container li {
+  margin-bottom: 15px;
+}
 }

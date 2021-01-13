@@ -1,0 +1,16 @@
+---
+layout: null
+---
+[
+  {% for recipe in site.recipes %}
+    {
+
+      "title"    : "{{ recipe.title | strip_html | escape }}",
+      "url"      : "{{ site.baseurl }}{{ recipe.url }}",
+      "tags"     : "{{ recipe.tags | join: ', ' }}",
+      "date"     : "{{ recipe.date }}",
+      "sourceUrl"     : "{{ recipe.sourceUrl }}"
+
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]
