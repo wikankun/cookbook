@@ -6,6 +6,8 @@ layout: null
 // Only ever load one of the two search optios, due to
 // SimpleJekyllSearch not supporting instancing being bugged
 
+var jsonUrl = '{{ site.url }}/list.json'
+
 var homeSearchInput = document.getElementById('home-search-input')
 var navSearchContainer = document.getElementById('nav-search')
 if (homeSearchInput) {
@@ -13,7 +15,7 @@ if (homeSearchInput) {
   var homeSearch = SimpleJekyllSearch({
     searchInput: homeSearchInput,
     resultsContainer: document.getElementById('home-search-results-container'),
-    json: '{{ site.url }}/list.json',
+    json: jsonUrl,
     searchResultTemplate: '{list_entry_html}'
   })
 
@@ -26,6 +28,6 @@ if (homeSearchInput) {
   var navSearch = SimpleJekyllSearch({
     searchInput: document.getElementById('search-input'),
     resultsContainer: document.getElementById('search-results-container'),
-    json: '{{ site.url }}/list.json'
+    json: jsonUrl
   })
 }
