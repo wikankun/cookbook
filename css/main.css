@@ -1313,3 +1313,8 @@ Table of Contents
 #search-results-container li {
   margin-bottom: 15px;
 }
+
+#home-search-input {
+  max-width: 500px;
+  margin: 0 auto;
+}
