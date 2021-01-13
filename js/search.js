@@ -6,7 +6,7 @@ layout: null
 // Only ever load one of the two search optios, due to
 // SimpleJekyllSearch not supporting instancing being bugged
 
-var jsonUrl = '{{ site.url }}/list.json'
+var jsonUrl = '{{ site.baseUrl }}/list.json'
 
 var homeSearchInput = document.getElementById('home-search-input')
 var navSearchContainer = document.getElementById('nav-search')
