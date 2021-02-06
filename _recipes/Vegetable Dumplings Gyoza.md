@@ -3,8 +3,8 @@ sourceUrl: https://biancazapatka.com/en/vegetable-dumplings-vegan-gyoza/
 spoonacularSourceUrl: 
 date: 2021-02-06
 cooking_time: 60
-servings: 40
-tags: []
+servings: 4
+tags: [vegan, vegetarian]
 ---
 # Vegetable Dumplings / Gyoza
 
