@@ -13,5 +13,8 @@
   "dependencies": {
     "ejs": "^2.7.1",
     "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "sanitize-filename": "^1.6.3"
   }
 }

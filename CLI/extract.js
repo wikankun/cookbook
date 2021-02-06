@@ -2,6 +2,7 @@ const fs = require('fs')
 const path = require('path')
 const ejs = require('ejs')
 const fetch = require('node-fetch')
+const sanitize = require("sanitize-filename");
 
 const MARKDOWN_TEMPLATE = 'CLI/template.md.ejs'
 
@@ -29,18 +30,19 @@ async function extract(recipeUrl) {
 
   // Extract JSON
   const recipeJson = await response.json()
+  const safeTitle = sanitize(recipeJson.title)
   // Save JSON for debugging purposes
-  await fs.promises.writeFile(`tmp/${recipeJson.title}.json`, JSON.stringify(recipeJson, null, 2))
+  await fs.promises.writeFile(`tmp/${safeTitle}.json`, JSON.stringify(recipeJson, null, 2))
 
   // Save the recipe Image
-  const imagePath = await downloadImage(recipeJson.image, `${recipeJson.title}`)
+  const imagePath = await downloadImage(recipeJson.image, safeTitle)
   if (imagePath) { recipeJson.image = path.join(MARKDOWN_IMG_PREFIX, path.basename(imagePath)) }
 
   // Convert Recipe from JSON to markdown
   const renderedRecipe = await recipeToMarkdown(recipeJson)
 
   // Save rendered Recipe
-  await fs.promises.writeFile(`${OUTPUT_DIR}/${recipeJson.title}.md`, renderedRecipe)
+  await fs.promises.writeFile(`${OUTPUT_DIR}/${safeTitle}.md`, renderedRecipe)
 }
 
 async function downloadImage(url, name) {
