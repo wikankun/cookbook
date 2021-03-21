@@ -8,6 +8,8 @@ tags: [vegan, vegetarian]
 ---
 # Vegetable Dumplings / Gyoza
 
+> The filling of these is also great as for spring rolls when wrapping it in rice paper.
+
 ![Image of Vegetale Dumplings Gyoza](../img/Vegetale Dumplings Gyoza.jpg)
 
 - Vegan Dumpling Wrapper (or use store-bought Wrappers)
@@ -17,13 +19,13 @@ tags: [vegan, vegetarian]
   - cornstarch or flour dusting the work surface
 - Vegetable Filling
   - 1-2 tbsp sesame oil
-  - 2 cloves garlic minced
-  - 1 tbsp ginger minced
   - 1 onion diced
   - 1 carrot (100g) shredded
   - 7 oz mushrooms (200g) finely chopped
   - ½ stick leek (60g) finely chopped
   - 7 oz cabbage (200g) shredded
+  - 2 cloves garlic minced
+  - 1 tbsp ginger minced
   - 2 tbsp soy sauce
   - 1 tbsp rice vinegar
   - salt and pepper to taste
