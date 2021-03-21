@@ -4,7 +4,8 @@
   "description": "My Personal Cookbook",
   "main": "CLI/main.js",
   "scripts": {
-    "add": "CLI/main.js",
+    "import": "CLI/commands/import.js",
+    "new": "CLI/commands/new.js",
     "serve": "bundle exec jekyll serve",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
