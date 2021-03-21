@@ -7,7 +7,7 @@ tags: [vegetarian, american, vegan]
 ---
 # French Toast
 
-![Image of French Toast I](../img/French Toast I.jpg)
+![Image of French Toast](../img/French Toast.jpg)
 
 - 6 thick slices bread
 - 2 eggs
