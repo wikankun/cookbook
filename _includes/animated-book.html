@@ -1,3 +1,4 @@
+{% if site.animated_book %}
 <figure class="book">
     <!-- Animated book animation by Marco Barría for Codrops, see https://tympanus.net/Development/AnimatedBooks/ -->
 
@@ -5,7 +6,7 @@
 
     <ul class="paperback_front">
         <li class="titlepage">
-            <span class="scribble">My <br> Cookbook</span>
+            <span class="scribble">{{ site.animated_book.title }}</span>
         </li>
         <li></li>
     </ul>
@@ -15,7 +16,7 @@
     <ul class="ruled_paper">
         <li></li>
         <li>
-            <span class="scribble rotated">Take a <br> look</span>
+            <span class="scribble rotated">{{ site.animated_book.scribble }}</span>
         </li>
         <li></li>
         <li></li>
@@ -29,3 +30,4 @@
         <li></li>
     </ul>
 </figure>
+{% endif %}

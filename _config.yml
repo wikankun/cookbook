@@ -11,6 +11,16 @@ collections:
     output: true
     permalink: /:collection/:title/
 
+# The small animated book at the top of the page
+# Comment this out completely to hide the whole book
+# Line-breaks have to be added manually via <br>
+animated_book:
+  # Book cover / title
+  title: 'My <br> Cookbook'
+  # Inside the book
+  scribble: 'Take a <br> look'
+
+
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
