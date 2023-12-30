@@ -1,22 +1,25 @@
 ---
 sourceUrl: https://www.chefkoch.de/rezepte/1065641211897860/Sellerieschnitzel.html
 spoonacularSourceUrl: 
-date: 2021-04-05
-cooking_time: 20
+date: 2023-12-30
+cooking_time: 30
 servings: 3
-tags: [vegetarian, german]
+tags: []
 ---
 # Sellerieschnitzel
 
 ![Image of Sellerieschnitzel](../img/Sellerieschnitzel.jpg)
 
+- 1 Knollensellerie
+- Mehl
+- 1 Ei(er), verschlagen
+- Paniermehl
+- Salz und Pfeffer
+- Butter
+- Öl 
 
-- * Bootstrap v4.0.0 (https://getbootstrap.com)
-- * Copyright 2011-2018 The Bootstrap Authors
-- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
-- * Bootstrap v4.0.0 (https://getbootstrap.com)
-- * Copyright 2011-2018 The Bootstrap Authors
-- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
-- @media not all{#i-amp-0{display:none}}@media not all and (max-width: 959px){#i-amp-1{display:none}}@media not all and (min-width: 960px){#i-amp-2{display:none}}
+Die Sellerieknolle schälen und dann in ca. 1,5 cm dicke Scheiben schneiden. In kochendem Salzwasser ca. 10 Min. kochen und anschließend abkühlen lassen.
 
+Die Selleriescheiben dann in Mehl, verschlagenem Ei und Paniermehl panieren. Etwas Butter und Öl in der Pfanne erhitzen und die Sellerieschnitzel darin ca. 5 Min. auf jeder Seite goldbraun braten. Vor dem Servieren noch mit Salz und Pfeffer würzen.
 
+Dazu passen Bratkartoffeln oder Kartoffelpüree. 
