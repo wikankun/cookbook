@@ -1,3 +1,5 @@
+![Cookbook logo, of a book with different vegetables and fruits emerging from it. Generated using DALL-E 3.](apple-touch-icon.png)
+
 # 📖 Cookbook
 
 This repository hosts my personal cookbook, a collection of my favorite recipes from various on- and offline sources.
