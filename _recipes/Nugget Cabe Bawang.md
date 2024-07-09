@@ -11,10 +11,10 @@ tags: [nugget, ayam, best-of]
 
 ![Image of Nugget Cabe Bawang](../img/Nugget Cabe Bawang.jpg)
 
-- 10 nugget
-- 10 cabe rawit
-- 10 bawang merah
-- 1 daun bawang
+- 10 nugget, bagi 2-3
+- 10 cabe rawit, iris tipis
+- 10 bawang merah, iris tipis sisi lebar
+- 1 daun bawang, iris tipis
 - 1/2 sdt kaldu jamur
 - 1/2 sdt garam
 

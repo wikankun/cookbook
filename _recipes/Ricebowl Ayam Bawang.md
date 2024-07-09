@@ -12,7 +12,7 @@ tags: [ayam, ricebowl, best-of]
 ![Image of Ricebowl Ayam Bawang](../img/Ricebowl Ayam Bawang.jpg)
 
 - Bahan
-  - 7 buah karaage
+  - 7 buah karaage, bagi 2
   - 2 buah telur
   - 10 siung bawang merah, iris memanjang
   - 3 siung bawang putih, iris memanjang
@@ -36,6 +36,6 @@ tags: [ayam, ricebowl, best-of]
   - Secukupnya minyak
 
 1. Ceplok telur.
-2. Belah karaage menjadi 2, goreng dengan api kecil sampai matang.
-3. Masukkan sedikit minyak ke pan, tumis bawang merah dan bawang putih untuk chili oil. Jika sudah wangi, matikan api. Masukkan chili clakes dan bumbu, aduk rata lalu cicipi. Nyalakan api kecil dan masak sebentar.
+2. Goreng karaage dengan api kecil sampai matang.
+3. Masukkan sedikit minyak ke pan, tumis bawang merah dan bawang putih untuk chili oil. Jika sudah wangi, matikan api. Masukkan chili flakes dan bumbu, aduk rata lalu cicipi. Nyalakan api kecil dan masak sebentar.
 4. Masukkan sedikit minyak ke pan, tumis semua bahan tumisan ayam. Masak sampai wangi, masukkan bumbu. Tes rasa. Masukkan ayam, tumis sebentar hingga rata. Angkat dan sajikan.

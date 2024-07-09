@@ -12,7 +12,7 @@ tags: [sambal, tempe, best-of]
 ![Image of Sambal Tempe](../img/Sambal Tempe.jpg)
 
 - 1/2 papan tempe, iris dan beri garam/bumbu tempe/ayam goreng
-- 1/4 ikat kemangi
+- 1/4 ikat kemangi, ambil daunnya saja
 - 1 sdt gula
 - 1 sdt kaldu bubuk
 - 1/2 buah jeruk limau

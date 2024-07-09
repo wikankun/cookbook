@@ -24,7 +24,7 @@ tags: [spaghetti, best-of]
 3. Tunggu sampai satu sisi matang, balik ayam.
 4. Angkat ayam, bilas pan.
 5. Masak spaghetti kalau air sudah mendidih, beri sedikit garam.
-6. masukkan 3 sdm olive oil ke pan, tambahkan kalau spaghetti masih kering.
+6. Masukkan 3 sdm olive oil ke pan, tambahkan kalau spaghetti masih kering.
 7. Tumis bawang sampai kecoklatan.
 8. Masukkan ayam, aduk sebentar.
 9. Masukkan spaghetti dan 4 sendok air rebusannya.

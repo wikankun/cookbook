@@ -36,5 +36,5 @@ tags: [ayam, best-of]
 5. Masukkan sedikit minyak ke pan, tumis bawang merah, bawang putih, dan bawang bombay sampai wangi. 
 6. Jika sudah wangi, masukkan ayam. Ratakan, jangan sampai menggumpal. Masak sampai setengah matang.
 7. Kecilkan api, beri air sedikit agar ayam tidak terlalu kering. Masukkan semua bahan saus (kecuali garam), aduk sampai rata.
-8. Cicipi dan tambahkan kecap atau garam jika perlu.
+8. Tes rasa, tambahkan kecap atau garam jika perlu.
 9. Jika rasa sudah pas, masukkan kemangi. Aduk rata sampai kemangi agak layu (jangan terlalu lama). Matikan api, sajikan dengan telur.

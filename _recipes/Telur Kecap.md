@@ -12,9 +12,9 @@ tags: [telur, best-of]
 ![Image of Telur Kecap](../img/Telur Kecap.jpg)
 
 - Bahan:
-- 1 daun bawang
-- 2 bawang putih
-- 4 cabe rawit
+- 1 daun bawang, iris tipis
+- 2 bawang putih, cincang
+- 4 cabe rawit, iris tipis
 - 2 telur
 - Bumbu cair:
   - 1 sdm kecap manis
@@ -22,9 +22,8 @@ tags: [telur, best-of]
   - 50 ml air
   - secukupnya lada putih
 
-1. Potong daun bawang dan bawang putih.
-2. Campur bumbu cair menjadi satu.
-3. Tumis daun bawang dan bawang putih hingga wangi.
-4. Masukkan telur, goreng hingga setengah matang.
-5. Masukkan bumbu cair, masang hingga telur matang.
-6. Tes rasa. tambahkan garam/kaldu jika masih kurang asin.
+1. Campur bumbu cair menjadi satu.
+2. Tumis daun bawang dan bawang putih hingga wangi.
+3. Masukkan telur, goreng hingga setengah matang.
+4. Masukkan bumbu cair, masak hingga telur matang, sambil tuang kuah ke atas telur agar matang merata.
+5. Tes rasa, tambahkan garam/kaldu jika masih kurang asin.
