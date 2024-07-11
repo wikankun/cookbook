@@ -9,7 +9,7 @@
     "serve": "bundle exec jekyll serve",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Jan Simson",
+  "author": "Wikan",
   "license": "MIT",
   "dependencies": {
     "ejs": "^2.7.1",

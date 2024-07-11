@@ -12,10 +12,11 @@ tags: [telur, best-of]
 ![Image of Telur Kecap](../img/Telur Kecap.jpg)
 
 - Bahan:
-- 1 daun bawang, iris tipis
-- 2 bawang putih, cincang
-- 4 cabe rawit, iris tipis
-- 2 telur
+  - 1 daun bawang, iris tipis
+  - 2 bawang putih, cincang
+  - 4 cabe rawit, iris tipis
+  - 2 telur
+
 - Bumbu cair:
   - 1 sdm kecap manis
   - 1/2 sdm kecap asin

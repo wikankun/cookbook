@@ -4,10 +4,9 @@ title: 'Tags'
 ---
 {% assign tags_list =  site.recipes | map: 'tags' | uniq %}
 
-Go to:
 <span class="blog-tags">
     {%- for tag in tags_list -%}
-        <a class="tag-{{ tag }}" href="#{{- tag -}}" class="tag-btn">{{- tag -}}</a>
+        <a class="tag-{{ tag }}" href="#{{- tag -}}" class="tag-btn">{{- tag -}}</a><br/>
     {%- endfor -%}
 </span>
 
