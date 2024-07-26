@@ -11,7 +11,7 @@ tags: [spaghetti, best-of]
 
 ![Image of Spaghetti Aglio Olio](../img/Spaghetti Aglio Olio.jpg)
 
-- 1/3 pack spaghettini-10 200gr
+- 1/3 pack spaghettini-10 450gr, atau sekitar 150 gram untuk 2 porsi
 - 7 bawang putih, iris tipis sisi lebar
 - 1 dada ayam, iris memanjang bagi 2, potong kotak tipis (1/2 cm) beri bumbu chicken seasoning
 - 5 cabe rawit
